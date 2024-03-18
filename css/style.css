@@ -78,7 +78,7 @@ address{
 
 }
 
-.title-1 {
+.advantages{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -106,14 +106,6 @@ address{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    
-}
-
-.t1-name{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
     
 }
 
