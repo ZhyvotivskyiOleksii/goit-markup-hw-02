@@ -30,7 +30,11 @@ ul, ol {
 address{
     font-style: normal;
 }
-
+.title-advantages{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center; 
+}
 
 .team{
     background-color: #F4F4FD;
@@ -57,10 +61,12 @@ address{
 .title{
     font-size: 36px;
     line-height: 1.11;
-    text-align: start;
+    text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    font-weight: 500;
+    text-align: center;
     
     
 }
@@ -76,5 +82,5 @@ address{
 }
 
 .logo-footer{
-    color: #E7E9FC;
+    color: #f4f4fd;
 }
