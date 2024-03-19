@@ -28,6 +28,19 @@ ul, ol {
     color: #404bbf;
 }
 
+.menu-address{
+    color: #434455;
+}
+
+.menu-address:hover{
+    color: #404bbf;
+
+}
+
+.menu-address:focus{
+    color: #404bbf;
+}
+
 
 .order-button{
     background-color: #4D5AE5;
